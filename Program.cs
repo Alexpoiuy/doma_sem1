@@ -42,6 +42,19 @@ Console.WriteLine(max);
 является ли число чётным (делится ли оно на два без остатка).
 */
 /*
+Console.Write("Input a  number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if(num % 2 == 0)
+{
+    Console.WriteLine("Чётное");
+}
+else
+{
+    Console.WriteLine("Не чётное");
+}
+*/
+/*
 Задача 8: Напишите программу, которая на вход принимает число (N),
  а на выходе показывает все чётные числа от 1 до N.
 */
